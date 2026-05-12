@@ -91,7 +91,7 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la Universidad d
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriaannm@gmail.com)
 [![Universidad del Quindío](https://img.shields.io/badge/UniQuindío-006633?style=for-the-badge&logo=academia&logoColor=white)](https://www.uniquindio.edu.co)
 
 </div>
