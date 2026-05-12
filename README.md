@@ -54,11 +54,11 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la Universidad d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F9E6B&icon_color=2F9E6B)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azrrael22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F9E6B&icon_color=2F9E6B)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F9E6B)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=2F9E6B&fire=2F9E6B&currStreakLabel=2F9E6B)
+![GitHub Streak](https://streak-stats.demolab.com?user=azrrael22&theme=tokyonight&hide_border=true&background=0d1117&ring=2F9E6B&fire=2F9E6B&currStreakLabel=2F9E6B)
 
 </div>
 
