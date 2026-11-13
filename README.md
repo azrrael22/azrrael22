@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas y Computación** en la Universidad del Quindío 🇨🇴, ubicado en el corazón del Eje Cafetero. Me apasionan el desarrollo backend, las bases de datos relacionales y la arquitectura de software.
+**Ingeniero de Sistemas y Computación** de la Universidad del Quindío 🇨🇴, ubicado en el corazón del Eje Cafetero. Me apasionan el desarrollo backend, las bases de datos relacionales y la arquitectura de software.
 
-- 🎓 Estudiante activo en UniQuindío — Armenia, Quindío
+- 🎓 Graduado de la Universidad del Quindío — Armenia, Quindío
 - 🔭 Trabajando en proyectos con **Spring Boot**, **Oracle DB** y **Angular**
 - 🌱 Aprendiendo más sobre **arquitectura hexagonal** y **métodos numéricos**
 - ☕ Fan del café de Salento y del código limpio
